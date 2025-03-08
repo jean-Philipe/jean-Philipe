@@ -39,7 +39,7 @@ Living in the digital age, I'm driven by the endless potential of technology. Th
 ### Co-Founder | Sonicali
 _Mar 2023 - Present | Santiago, Chile_
 
-Co-founder of Sonicali, a deep tech startup that utilizes ultrasound to revolutionize sea lice control in salmon farming. Our sustainable approach replaces chemicals, reducing parasite load by 50% at 20% lower costs.
+Co-founder of Sonicali, a deep tech startup that utilizes ultrasound to revolutionize sea lice control in salmon farming. Our sustainable approach replaces chemicals, reducing parasite load by 85% at 30% lower costs.
 
 ### Autonomous Robot Project | Pontificia Universidad Católica de Chile
 _Jul 2022 - Dec 2022 | Santiago, Chile_

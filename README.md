@@ -1,4 +1,4 @@
-# Hi there! I'm Jean-Philipe Fuentes 👋
+# Hi there! I'm Jean Philipe Fuentes 👋
 
 I'm a software engineer and tech enthusiast driven by teamwork, technology, and innovation. I love building solutions and have led teams to success in hackathons, tech competitions, and startup ventures. I'm always eager to learn and take on new challenges, using code to make a positive impact!
 

@@ -93,6 +93,19 @@ Developed skills in **active listening, team coaching, mood identification, and 
 
 ---
 
+## 🌉 Silicon Valley Experience
+
+During my time in **San Francisco and Silicon Valley**, I had the opportunity to visit world-leading companies, study at Stanford University, and meet inspiring communities that are shaping the future of technology.  
+
+- 🏭 [Visiting Tesla, Google, Airbnb, Twitch, and Meta](https://www.linkedin.com/feed/update/urn:li:activity:7299158977752301568/) – A childhood dream come true, where I explored robotics, product design, and tech culture in the Valley.  
+- 🌐 [Reflections at the end of my stay](https://www.linkedin.com/posts/jean-philipe-fuentes-bordagaray_my-stay-in-san-francisco-has-come-to-an-end-activity-7303192440310489088-Pt1z) – Highlights from Plug and Play Tech Center, NASA Ames Research, Berkeley AI Research Lab, and innovative startups like Nirvana Insurance and Blair.  
+- 🎓 [Studying at Stanford University](https://www.linkedin.com/posts/jean-philipe-fuentes-bordagaray_i-studied-at-stanford-university-yesterday-activity-7305670943756996608-9LFX) – Completed winter quarter classes in *Startup Escape Velocity* and *User-Centered Design for AI Applications*. Learned directly from professors and shared experiences with international classmates.  
+- 🌉 [Two weeks in San Francisco](https://www.linkedin.com/posts/jean-philipe-fuentes-bordagaray_almost-two-weeks-in-san-francisco-and-i-activity-7296052877855186944-jp08) – Insights from Meta, Uber, Netflix, UC Berkeley, and Stanford. Connected with VCs, angel investors, and founders, gaining perspective on building global-impact startups.  
+
+These experiences motivated me to push further into **AI, entrepreneurship, and global tech ecosystems**, reinforcing my goal of building impactful technology from Chile to the world.
+
+---
+
 ## 📫 Let’s Connect
 
 - **Email:** jhfuentes@uc.cl  

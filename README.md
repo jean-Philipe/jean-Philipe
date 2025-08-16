@@ -23,33 +23,22 @@ Attended in-person courses in Silicon Valley:
 ## 💻 Tech Stack
 
 - **Programming Languages**  
-  ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)  
-  ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)  
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)  
-  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)  
-  ![Ruby](https://img.shields.io/badge/Ruby-CC342D?logo=ruby&logoColor=fff)  
-  ![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=fff)  
-  ![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=fff)  
-  ![Arduino](https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=fff)
+  ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff) ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)  
+  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff) ![Ruby](https://img.shields.io/badge/Ruby-CC342D?logo=ruby&logoColor=fff) ![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=fff)  
+  ![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=fff) ![Arduino](https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=fff)
 
 - **Frameworks & Libraries**  
-  ![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)  
-  ![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff)  
-  ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=fff)  
-  ![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?logo=ruby-on-rails&logoColor=fff)
+  ![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff)  
+  ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=fff) ![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?logo=ruby-on-rails&logoColor=fff)
 
 - **Cloud & DevOps**  
-  ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)  
-  ![AWS](https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white)  
-  ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?logo=google-cloud&logoColor=fff)  
-  ![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?logo=microsoft-azure&logoColor=fff)  
+  ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff) ![AWS](https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white)  
+  ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?logo=google-cloud&logoColor=fff) ![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?logo=microsoft-azure&logoColor=fff)  
   *Experience with cloud architecture and deployments (AWS EC2, S3 Buckets, scalable architectures).*
 
 - **Data & Tools**  
-  ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=fff)  
-  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=fff)  
-  ![Prisma](https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=fff)  
-  ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=fff)
+  ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=fff) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=fff)  
+  ![Prisma](https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=fff) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=fff)
 
 ---
 

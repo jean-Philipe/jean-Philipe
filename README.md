@@ -1,59 +1,101 @@
-# Hi, I’m Jean-Philipe! 👋
+# Hi there! I'm Jean-Philipe Fuentes 👋
 
-Passionate about technology and eager to learn, I'm a software engineering enthusiast with a diverse skill set. From coding in various languages to diving into data science and harnessing the power of frameworks, I'm here to make a positive impact in the tech world.
+I'm a software engineer and tech enthusiast driven by teamwork, technology, and innovation. I love building solutions and have led teams to success in hackathons, tech competitions, and startup ventures. I'm always eager to learn and take on new challenges, using code to make a positive impact!
 
-🌱 **Currently Learning:** Software Engineering | Data Science | AI Advancements
+🌱 **Currently Learning:** Startup Scaling Strategies | User-Centered AI Product Design | Advanced AI Innovations  
+🚀 **Aspiring to:** Develop innovative solutions that revolutionize industries and drive positive change
 
-🚀 **Aspiring to:** Develop innovative solutions that revolutionize industries and drive positive change.
+---
 
-## About Me
+## 🎓 Education
 
-Living in the digital age, I'm driven by the endless potential of technology. The fusion of quantum computing, AI, and the internet fuels my imagination, pushing me to explore new boundaries and create meaningful digital experiences.
+### Stanford University – Continuing Studies (Jan 2025 – Mar 2025)  
+Attended in-person courses in Silicon Valley:  
+- **BUS 219:** *Startup Escape Velocity: From Early Idea to Mainstream Success* (taught by Bret Waters)  
+- **TECH 21:** *User-Centered Design for AI Applications* (taught by Rupa Chaturvedi)  
 
-## Tech Stack
+### Pontificia Universidad Católica de Chile (2021 – 2026)  
+- **Major:** Software Engineering  
+- **Minor:** Data Science & Analytics  
 
-- **Programming Languages:** 
-  ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-  ![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white)
-  ![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white)
-  ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
-  ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-  ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+---
 
-- **Frameworks:** 
-  ![Ruby on Rails](https://img.shields.io/badge/-Ruby%20on%20Rails-CC0000?style=flat-square&logo=ruby-on-rails&logoColor=white)
-  ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+## 💻 Tech Stack
 
-- **Data Science:** 
-  Exploring the depths of data with Python and R to extract insights that drive informed decisions.
+- **Programming Languages**  
+  ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)  
+  ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)  
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)  
+  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)  
+  ![Ruby](https://img.shields.io/badge/Ruby-CC342D?logo=ruby&logoColor=fff)  
+  ![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=fff)  
+  ![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=fff)  
+  ![Arduino](https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=fff)
 
-- **Tools & Platforms:**
-  ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-  ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
-  ![Microsoft Azure](https://img.shields.io/badge/-Microsoft%20Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
+- **Frameworks & Libraries**  
+  ![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)  
+  ![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff)  
+  ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=fff)  
+  ![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?logo=ruby-on-rails&logoColor=fff)
 
-## Experience
+- **Cloud & DevOps**  
+  ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)  
+  ![AWS](https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white)  
+  ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?logo=google-cloud&logoColor=fff)  
+  ![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?logo=microsoft-azure&logoColor=fff)  
+  *Experience with cloud architecture and deployments (AWS EC2, S3 Buckets, scalable architectures).*
 
-### Co-Founder | Sonicali
-_Mar 2023 - Present | Santiago, Chile_
+- **Data & Tools**  
+  ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=fff)  
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=fff)  
+  ![Prisma](https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=fff)  
+  ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=fff)
 
-Co-founder of Sonicali, a deep tech startup that utilizes ultrasound to revolutionize sea lice control in salmon farming. Our sustainable approach replaces chemicals, reducing parasite load by 85% at 30% lower costs.
+---
 
-### Autonomous Robot Project | Pontificia Universidad Católica de Chile
-_Jul 2022 - Dec 2022 | Santiago, Chile_
+## 💼 Experience
 
-Led a university team project focusing on autonomous robotics. Leveraged skills in Arduino, Python, and teamwork to create a soccer-playing robot capable of both offense and defense.
+### Co-Founder | Sonicali  
+_Mar 2023 – Present | Santiago, Chile_
 
-### Fiber Optic Installation Technician (Internship) | Movistar Chile
-_Dec 2020 - Jan 2021 | Chile_
+Co-founder of **Sonicali**, an award-winning deep tech startup using ultrasound to revolutionize sea lice control in salmon farming. Our sustainable approach replaces chemical treatments, achieving ~85% reduction in parasite load at 30% lower cost. We’ve received seed funding and innovation awards, and are now scaling the impact of our solution in the aquaculture industry.
 
-Installed fiber optic infrastructure, managed network components, and ensured seamless customer experiences through top-notch telecommunications services.
+### Effective Team Training Coach (3E) | Fundación Mercator  
+_Mar 2024 – Jul 2024_
 
-## Let's Connect!
+Trained in **team communication and coordination** through analysis of speech acts (offers, requests, judgments, declarations).  
+Developed skills in **active listening, team coaching, mood identification, and oral expression**, applying them to enhance group collaboration.
 
-📫 **Email:** jhfuentes@uc.cl
-🌐 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/jean-philipe-fuentes-bordagaray/)
+---
 
-Let's collaborate, innovate, and explore the tech landscape together!
+## 🎓 Teaching & Research
+
+### Teaching Assistant – Software Engineering (IIC2143, PUC Chile)  
+- **Platform Developer (Mar 2025 – Present):** Sole developer of a new course platform managing students, TAs, instructors, and SCRUM workflows. Supports product backlog tracking, sprint reporting, and advanced analytics.  
+- **Content Producer (Mar 2024 – Jul 2024):** Designed and recorded weekly video capsules on software engineering, agile processes, Ruby on Rails, MVC, design patterns, and testing.  
+- **Team Guide / Product Owner (Aug 2023 – Present):** Mentored 5 teams, planning tutorials, guiding sprints, and evaluating deliverables.
+
+### Teaching Assistant – Master’s in Data Science (PUC Chile)  
+- Delivered synchronous sessions to ensure students understood theoretical concepts and could apply them to real projects. Managed Zoom & Coursera platforms for coursework.
+
+### Teaching Assistant – Web Technologies (IIC2513, PUC Chile)  
+- Mentored 4 teams building advanced web applications with **React, JWT, Node.js (Express), Prisma, WebSockets, IndexedDB, GitHub Actions**.  
+- Delivered lectures on frameworks and actively evaluated project deliverables.
+
+### Teaching Assistant – Software Development Processes (INF3220, PUC Chile)  
+- Helped students critically apply software process theories to real projects and professional contexts.
+
+### Teaching Assistant – Detailed Software Design (IIC2113, PUC Chile)  
+- Reviewed C#/.NET projects, enforcing **Clean Code** principles and assessing code quality.
+
+### Research Intern – University of Miami (Sept 2024 – Oct 2024)  
+- Advised by Prof. Lokesh Ramamoorthi on **Generative AI in Healthcare**, exploring its potential in patient care and medical education.
+
+---
+
+## 📫 Let’s Connect
+
+- **Email:** jhfuentes@uc.cl  
+- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/jean-philipe-fuentes-bordagaray/)  
+
+---
